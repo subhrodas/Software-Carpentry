@@ -1,2 +1,2 @@
-x = rand(10,1);
+x = rand(20,1);
 plot(x);
